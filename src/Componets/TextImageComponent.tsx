@@ -6,7 +6,7 @@ const TextImageComponent:FunctionComponent =()=>{
     <div className='h-[10vh] bg-[#A5554D]  flex items-center justify-center'>
        
      </div>
-    <div className='bg-[#F0CD8C] h-[190vh] p-2 flex flex-col lg:flex-row items-center justify-evenly lg:h-[85vh]'>
+    <div className='bg-[#F0CD8C] h-[190vh] p-2 flex flex-col lg:flex-row items-center justify-evenly lg:h-[90vh]'>
       <div className='lg:w-[50%] w-[90%] lg:h-[50vh] flex flex-col items-center justify-evenly'>
         <p className='text-[2rem] flex items-center justify-center text-center font-bold text-[#DAACAC]'>O chef</p>
         <p className='w-[100%]  lg:h-[30%]  text-[#640A14] lg:w-[80%]  '>Meu objetivo é compartilhar tudo o que minha criatividade gastronômica concebe e desenvolve. Sou um baiano criado nos bastidores da cozinha, onde desde jovem fui inspirado por meus pais a desenvolver minha essência e paixão pela culinária. Essa jornada me levou a me tornar um chef de cozinha particular, uma profissão que eu exerço com amor desde 2016.</p>
