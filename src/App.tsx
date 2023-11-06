@@ -9,8 +9,7 @@ function App() {
   return (
     <div className=''>
       <HomeComponent />
-     <TextImageComponent
-      /> 
+      <TextImageComponent/> 
     </div>
   );
 }
