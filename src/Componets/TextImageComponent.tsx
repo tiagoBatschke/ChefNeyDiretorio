@@ -5,7 +5,7 @@ const TextImageComponent:FunctionComponent =()=>{
     <>
     <div className='h-[10vh] bg-[#A5554D]  flex items-center justify-center'></div>
     <div className='bg-[#F0CD8C] h-[220vh] p-2 flex flex-col lg:flex-row items-center justify-evenly lg:h-[90vh]'>
-      <div className='lg:w-[50%] w-[90%] lg:h-[60vh] flex flex-col items-center justify-evenly'>
+      <div className='lg:w-[50%] w-[90%] lg:h-[80vh] flex flex-col items-center justify-evenly'>
         <p className='text-[2rem] flex items-center justify-center text-center font-bold text-[#DAACAC]'>O chef</p>
         <p className='w-[100%] mt-[5%] lg:mt-0 text-center lg:text-justify font-semibold text-[#640A14] lg:w-[80%]'>Meu objetivo é entregar tudo que minha criatividade gastronômica cria edesenvolve. Sou Baiano criado dentro da cozinha, sendo sempre incentivado pelos meus pais e criando essa essência e paixão pela gastronomia. Por esta razão sou chefe de cozinha particular desde 2016, amando minha profissão, tendo a criatividade e segurança com os alimentos para melhor servir aos meus clientes. A  arte da culinária é um extasê a ser vivido, por isso tenho em mente sempre trazer essa experiência para servir em sua mesa.</p>
         <p className='w-[100%] mt-[5%] lg:mt-0 text-center lg:text-justify font-semibold text-[#640A14] lg:w-[80%]'>Minha carreira me proporcionou a confiança e a habilidade para trabalhar com alimentos, garantindo uma experiência culinária excepcional para meus clientes. A arte da culinária é uma paixão que transcende o simples ato de cozinhar; é uma experiência que merece ser vivida em sua plenitude.</p>
