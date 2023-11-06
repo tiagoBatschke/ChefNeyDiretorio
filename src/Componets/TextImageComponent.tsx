@@ -13,7 +13,7 @@ const TextImageComponent:FunctionComponent =()=>{
         <p className='w-[100%] h-[90%] lg:h-[25%]  text-[#640A14] lg:w-[80%]  '>Minha carreira me proporcionou a confiança e a habilidade para trabalhar com alimentos, garantindo uma experiência culinária excepcional para meus clientes. A arte da culinária é uma paixão que transcende o simples ato de cozinhar; é uma experiência que merece ser vivida em sua plenitude.</p>
         <p className='w-[100%] h-[90%] lg:h-[25%]  text-[#640A14] lg:w-[80%]  '>Assim, tenho o compromisso constante de trazer essa experiência culinária para a sua mesa. Cada prato que preparo é uma manifestação da minha paixão e criatividade, elaborado com ingredientes de qualidade e uma pitada de amor. Estou pronto para transformar cada refeição em um momento de deleite e satisfação para todos aqueles que tenham o privilégio de saborear minhas criações gastronômicas.</p>
       </div>
-          <img className='lg:w-[30rem] lg:h-[30rem] rounded-md' src="./src/assets/339997666_1001780797870060_8192517577258071711_n.jpg" alt="" />
+          <img className='lg:w-[30rem] lg:h-[30rem] rounded-md' src="https://scontent.cdninstagram.com/v/t51.2885-15/339997666_1001780797870060_8192517577258071711_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=NRewyU7EvNcAX9FJLQO&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfB_NF-KNzOvnGFyOpjQ9m1ZFsm7UwB6rydfVyhI5ESUYw&oe=654DB626&_nc_sid=10d13b" alt="" />
           
     </div>
     <div className='bg-[#f0cd8c72] p-2 flex justify-evenly items-center'>
