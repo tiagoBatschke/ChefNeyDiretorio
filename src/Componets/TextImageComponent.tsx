@@ -1,16 +1,6 @@
-import {FunctionComponent, ReactNode} from 'react'
+import {FunctionComponent} from 'react'
 
-
-
-interface TextImageComponentProps {
-
-}
-  
- 
-
-const TextImageComponent:FunctionComponent<TextImageComponentProps> =(props)=>{
-
-
+const TextImageComponent:FunctionComponent =()=>{
     return ( 
     <>
     <div className='h-[10vh] bg-[#A5554D]  flex items-center justify-center'>
