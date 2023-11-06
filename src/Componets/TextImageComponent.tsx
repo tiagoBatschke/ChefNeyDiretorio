@@ -3,9 +3,7 @@ import {FunctionComponent} from 'react'
 const TextImageComponent:FunctionComponent =()=>{
     return ( 
     <>
-    <div className='h-[10vh] bg-[#A5554D]  flex items-center justify-center'>
-       
-     </div>
+    <div className='h-[10vh] bg-[#A5554D]  flex items-center justify-center'></div>
     <div className='bg-[#F0CD8C] h-[190vh] p-2 flex flex-col lg:flex-row items-center justify-evenly lg:h-[90vh]'>
       <div className='lg:w-[50%] w-[90%] lg:h-[50vh] flex flex-col items-center justify-evenly'>
         <p className='text-[2rem] flex items-center justify-center text-center font-bold text-[#DAACAC]'>O chef</p>
